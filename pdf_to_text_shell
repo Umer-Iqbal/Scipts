@@ -1,1 +1,0 @@
-pdftotext -layout <file_name.pdf> <output.txt>
